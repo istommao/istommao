@@ -11,7 +11,7 @@ I'm a Pythonista, want to learn Rust and Golang.
 
 - GitHub: <https://github.com/istommao>
 - Blog: <https://blog.cattalk.in/>
-- Zhihu<https://zhuanlan.zhihu.com/codingcat>
+- Zhihu: <https://zhuanlan.zhihu.com/codingcat>
 - Gmail: <istommao@gmail.com>
 
 ### About

@@ -14,7 +14,7 @@ I'm a Pythonista, I'd like to make some contributions for open source and share 
 - <https://zhuanlan.zhihu.com/codingcat>
 - <istommao@gmail.com>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=istommaoistommao&show_icons=true&theme=dark)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=istommao&show_icons=true&theme=dark)
 
 <!--
 **istommao/istommao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

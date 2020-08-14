@@ -4,13 +4,13 @@ I'm a Pythonista, want to learn Rust and Golang.
 
 ### Sites
 
+- Blog: <https://blog.cattalk.in/>
 - Collectors: <http://c.codingcat.top/>
 - CodeSnippet: <https://codesnippet.top/>
 
 ### Contact me
 
 - GitHub: <https://github.com/istommao>
-- Blog: <https://blog.cattalk.in/>
 - Zhihu: <https://zhuanlan.zhihu.com/codingcat>
 - Gmail: <istommao@gmail.com>
 

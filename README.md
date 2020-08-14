@@ -1,18 +1,23 @@
 ### Hi there 👋
 
-I'm a Pythonista, I'd like to make some contributions for open source and share some thoughts on my blog and github.
+I'm a Pythonista, want to learn Rust and Golang.
 
 ### Sites
 
-- <http://c.codingcat.top/>
-- <https://codesnippet.top/>
+- Collectors: <http://c.codingcat.top/>
+- CodeSnippet: <https://codesnippet.top/>
 
 ### Contact me
 
-- <https://github.com/istommao>
-- <https://blog.cattalk.in/>
-- <https://zhuanlan.zhihu.com/codingcat>
-- <istommao@gmail.com>
+- GitHub: <https://github.com/istommao>
+- Blog: <https://blog.cattalk.in/>
+- Zhihu<https://zhuanlan.zhihu.com/codingcat>
+- Gmail: <istommao@gmail.com>
+
+### About
+
+- 🔭 I’m currently working on Hangzhou, China
+
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=istommao&show_icons=true&theme=dark)
 

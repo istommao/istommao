@@ -4,10 +4,11 @@ I'm a Pythonista, want to learn Rust and Golang.
 
 ### Sites
 
-- Blog: <https://blog.cattalk.in/>
+- Cryptography: <https://istommao.github.io/Cryptography/>
+- Blog: <https://itzoo.top/>
 - Collectors: <http://c.codingcat.top/>
 - ToolBox: <http://t.codingcat.top/>
-- CodeSnippet: <https://codesnippet.top/>
+- CodeSnippet: <https://abstack.cn/>
 
 ### Contact me
 

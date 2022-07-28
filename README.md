@@ -8,7 +8,9 @@ I'm a Pythonista, want to learn Rust and Golang.
 - Blog: <https://itzoo.top/>
 - Collectors: <http://c.codingcat.top/>
 - ToolBox: <http://t.codingcat.top/>
-- CodeSnippet: <https://abstack.cn/>
+<!-- - CodeSnippet: <https://abstack.cn/> -->
+- CodeSnippet: <https://istommao.github.io/CodeSnippet>
+- Articles: https://istommao.github.io/articlelist/
 
 ### Contact me
 

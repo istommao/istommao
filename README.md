@@ -4,6 +4,7 @@ I'm a Pythonista, want to learn Rust and Golang.
 
 ### Sites
 
+- CodeBook: <https://github.com/istommao/CodeBook/>
 - Cryptography: <https://istommao.github.io/Cryptography/>
 - Blog: <https://itzoo.top/>
 - Collectors: <http://c.codingcat.top/>

@@ -6,17 +6,11 @@ I'm a Pythonista, want to learn Rust and Golang.
 
 - CodeBook: <https://github.com/istommao/CodeBook/>
 - Cryptography: <https://istommao.github.io/Cryptography/>
-- Blog: <https://itzoo.top/>
-- Collectors: <http://c.codingcat.top/>
 - ToolBox: <http://t.codingcat.top/>
-<!-- - CodeSnippet: <https://abstack.cn/> -->
-- CodeSnippet: <https://istommao.github.io/CodeSnippet>
-- Articles: https://istommao.github.io/articlelist/
 
 ### Contact me
 
 - GitHub: <https://github.com/istommao>
-- Zhihu: <https://zhuanlan.zhihu.com/codingcat>
 - Gmail: <istommao@gmail.com>
 
 ### About

@@ -4,10 +4,13 @@ I'm a Pythonista, want to learn Rust and Golang.
 
 ### Sites
 
-- CodeBook: <https://github.com/istommao/CodeBook/>
-- Cryptography: <https://istommao.github.io/Cryptography/>
-- ToolBox: <http://t.codingcat.top/>
 
+- Cryptography:
+  -  <https://hello-crypto.cn/>
+  -  <http://crypto-online.cn/>
+- ToolBox: <http://t.codingcat.top/>
+- CodeBook: <https://github.com/istommao/CodeBook/>
+- 
 ### Contact me
 
 - GitHub: <https://github.com/istommao>

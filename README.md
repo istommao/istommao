@@ -6,9 +6,9 @@ I'm a Pythonista, want to learn Rust and Golang.
 
 
 - Cryptography:
-  -  <https://hello-crypto.cn/>
-  -  <http://crypto-online.cn/>
-  -  https://github.com/istommao/CryptoBox
+  -  📚 <https://hello-crypto.cn/>
+  -  🌍 Online crypto toolbox <http://crypto-online.cn/>
+  -  💻 Desktop crypto toolbox https://github.com/istommao/CryptoBox
 - ToolBox: <https://t.codingcat.top/>
 - CodeBook: <https://github.com/istommao/CodeBook/>
 - 

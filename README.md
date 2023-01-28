@@ -11,7 +11,7 @@ I'm a Pythonista, want to learn Rust and Golang.
   -  💻 Desktop crypto toolbox https://github.com/istommao/CryptoBox
 - ToolBox: <https://t.codingcat.top/>
 - CodeBook: <https://github.com/istommao/CodeBook/>
-- 
+
 ### Contact me
 
 - GitHub: <https://github.com/istommao>

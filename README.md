@@ -21,7 +21,7 @@ I'm a Pythonista, want to learn Rust and Golang.
 
 ### About
 
-- 🔭 I’m currently working on Hangzhou, China
+- 🔭 I’m currently working on China
 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=istommao&show_icons=true&theme=dark)
